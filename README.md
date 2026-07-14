@@ -68,7 +68,7 @@ Password-Strength-Checker/
 
 ## Author
 
-Name: Ramadevi
+Name: K.Ramadevi
 
 Industrial Training Project – DecodeLabs
 
